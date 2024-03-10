@@ -1,1 +1,3 @@
-# al_project
+# Projektarbeit
+
+Entwicklung eines Programms zur Reservierung von Schreibtischen
